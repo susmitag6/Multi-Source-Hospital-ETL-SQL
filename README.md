@@ -142,14 +142,11 @@ print(conn.execute(open('sql/queries/06_hac_penalty_vs_infections.sql').read()).
 "
 ```
 
-The schema in `sql/schema.sql` is plain ANSI-ish SQL and ports to PostgreSQL
-with no changes beyond removing the SQLite-specific `PRAGMA` line.
+The schema in `sql/schema.sql` is plain ANSI-ish SQL. I  ported to PostgreSQL
+with no changes beyond removing the SQLite-specific `PRAGMA` line to generate ERD diagram.
 
 **Note on the database file:** `hospital_compare.db` is ~115MB (423K fact
-rows with composite text keys) and is `.gitignore`'d rather than committed —
-regenerate it locally with the command above after cloning. It's included in
-this delivered copy so you can query it immediately without running the
-script first.
+rows with composite text keys) and is `.gitignore`'d rather than committed. It can be regenerated it locally with the command above after cloning.
 
 ## Analytical queries
 

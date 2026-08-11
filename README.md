@@ -6,7 +6,7 @@ This is a full ETL and SQL project. I took 8 raw, messy government health files 
 
 ## Why 8 files instead of just 1
 
-Most real world data work does not hand you one clean table. It hands you a bunch of files from different systems, different years, and different naming rules, and they are all supposed to fit together but never quite do right out of the box. This project pulls together:
+Most real world data work does not hand us one clean table. It hands us a bunch of files from different systems, different years, and different naming rules, and they are all supposed to fit together but never quite do right out of the box. This project pulls together:
 
 <table>
 <colgroup>

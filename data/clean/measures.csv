@@ -5,107 +5,223 @@ LEGACY2011_MORTALITY_PNEUMONIA,Mortality Rate - Pneumonia (2011),Legacy_2011,201
 LEGACY2011_READMISSION_HEART_ATTACK,Readmission Rate - Heart Attack (2011),Legacy_2011,2011
 LEGACY2011_READMISSION_HEART_FAILURE,Readmission Rate - Heart Failure (2011),Legacy_2011,2011
 LEGACY2011_READMISSION_PNEUMONIA,Readmission Rate - Pneumonia (2011),Legacy_2011,2011
-COMPLICATIONS_AND_DEATHS__AMI_30_DAY_MORTALITY_RATE_MORT_30_AMI,AMI 30-Day Mortality Rate (MORT 30 AMI),Complications_and_Deaths,2022
-COMPLICATIONS_AND_DEATHS__DEATH_RATE_FOR_CABG_SURGERY_PATIENTS_MORT_30_CABG,Death rate for CABG surgery patients (MORT 30 CABG),Complications_and_Deaths,2022
-COMPLICATIONS_AND_DEATHS__DEATH_RATE_FOR_COPD_PATIENTS_MORT_30_COPD,Death rate for COPD patients (MORT 30 COPD),Complications_and_Deaths,2022
-COMPLICATIONS_AND_DEATHS__DEATH_RATE_FOR_STROKE_PATIENTS_MORT_30_STK,Death rate for stroke patients (MORT 30 STK),Complications_and_Deaths,2022
-COMPLICATIONS_AND_DEATHS__HEART_FAILURE_30_DAY_MORTALITY_RATE_MORT_30_HF,Heart failure 30-Day Mortality Rate (MORT 30 HF),Complications_and_Deaths,2022
-HAIS__CAUTI_SIR,CAUTI (SIR),HAIs,2022
-HAIS__CAUTI_OBSERVED_CASES,CAUTI Observed Cases,HAIs,2022
-HAIS__CAUTI_PREDICTED_CASES,CAUTI Predicted Cases,HAIs,2022
-HAIS__CAUTI_URINARY_CATHETER_DAYS,CAUTI Urinary Catheter Days,HAIs,2022
-HAIS__CDIFF_SIR,CDIFF (SIR),HAIs,2022
-HAIS__CDIFF_OBSERVED_CASES,CDIFF Observed Cases,HAIs,2022
-HAIS__CDIFF_PREDICTED_CASES,CDIFF Predicted Cases,HAIs,2022
-HAIS__CDIFF_PATIENT_DAYS,CDIFF patient days,HAIs,2022
-HAIS__CLABSI_SIR,CLABSI (SIR),HAIs,2022
-HAIS__CLABSI_NUMBER_OF_DEVICE_DAYS,CLABSI Number of Device Days,HAIs,2022
-HAIS__CLABSI_OBSERVED_CASES,CLABSI Observed Cases,HAIs,2022
-HAIS__CLABSI_PREDICTED_CASES,CLABSI Predicted Cases,HAIs,2022
-HAIS__MRSA_SIR,MRSA (SIR),HAIs,2022
-HAIS__MRSA_OBSERVED_CASES,MRSA Observed Cases,HAIs,2022
-HAIS__MRSA_PREDICTED_CASES,MRSA Predicted Cases,HAIs,2022
-HAIS__MRSA_PATIENT_DAYS,MRSA patient days,HAIs,2022
-HAIS__SSI_ABDOMINAL_HYSTERECTOMY,SSI Abdominal Hysterectomy,HAIs,2022
-HAIS__SSI_ABDOMINAL_NUMBER_OF_PROCEDURES,SSI Abdominal Number of Procedures,HAIs,2022
-HAIS__SSI_ABDOMINAL_OBSERVED_CASES,SSI Abdominal Observed Cases,HAIs,2022
-HAIS__SSI_ABDOMINAL_PREDICTED_CASES,SSI Abdominal Predicted Cases,HAIs,2022
-HAIS__SSI_COLON_NUMBER_OF_PROCEDURES,SSI Colon Number of Procedures,HAIs,2022
-HAIS__SSI_COLON_OBSERVED_CASES,SSI Colon Observed Cases,HAIs,2022
-HAIS__SSI_COLON_PREDICTED_CASES,SSI Colon Predicted Cases,HAIs,2022
-HAIS__SSI_COLON_SURGERY_SIR,SSI Colon Surgery (SIR),HAIs,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_AMI_EXCESS_READMISSION_RATIO,READM-30-AMI (Excess Readmission Ratio),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_AMI_EXPECTED_READMISSION_RATE,READM-30-AMI (Expected Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_AMI_NUMBER_OF_DISCHARGES,READM-30-AMI (Number of Discharges),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_AMI_NUMBER_OF_READMISSIONS,READM-30-AMI (Number of Readmissions),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_AMI_PREDICTED_READMISSION_RATE,READM-30-AMI (Predicted Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_CABG_EXCESS_READMISSION_RATIO,READM-30-CABG (Excess Readmission Ratio),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_CABG_EXPECTED_READMISSION_RATE,READM-30-CABG (Expected Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_CABG_NUMBER_OF_DISCHARGES,READM-30-CABG (Number of Discharges),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_CABG_NUMBER_OF_READMISSIONS,READM-30-CABG (Number of Readmissions),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_CABG_PREDICTED_READMISSION_RATE,READM-30-CABG (Predicted Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_COPD_EXCESS_READMISSION_RATIO,READM-30-COPD (Excess Readmission Ratio),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_COPD_EXPECTED_READMISSION_RATE,READM-30-COPD (Expected Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_COPD_NUMBER_OF_DISCHARGES,READM-30-COPD (Number of Discharges),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_COPD_NUMBER_OF_READMISSIONS,READM-30-COPD (Number of Readmissions),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_COPD_PREDICTED_READMISSION_RATE,READM-30-COPD (Predicted Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_HF_EXCESS_READMISSION_RATIO,READM-30-HF (Excess Readmission Ratio),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_HF_EXPECTED_READMISSION_RATE,READM-30-HF (Expected Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_HF_NUMBER_OF_DISCHARGES,READM-30-HF (Number of Discharges),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_HF_NUMBER_OF_READMISSIONS,READM-30-HF (Number of Readmissions),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_HF_PREDICTED_READMISSION_RATE,READM-30-HF (Predicted Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_HIP_KNEE_EXCESS_READMISSION_RATIO,READM-30-HIP-KNEE (Excess Readmission Ratio),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_HIP_KNEE_EXPECTED_READMISSION_RATE,READM-30-HIP-KNEE (Expected Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_HIP_KNEE_NUMBER_OF_DISCHARGES,READM-30-HIP-KNEE (Number of Discharges),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_HIP_KNEE_NUMBER_OF_READMISSIONS,READM-30-HIP-KNEE (Number of Readmissions),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_HIP_KNEE_PREDICTED_READMISSION_RATE,READM-30-HIP-KNEE (Predicted Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_PN_EXCESS_READMISSION_RATIO,READM-30-PN (Excess Readmission Ratio),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_PN_EXPECTED_READMISSION_RATE,READM-30-PN (Expected Readmission Rate),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_PN_NUMBER_OF_DISCHARGES,READM-30-PN (Number of Discharges),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_PN_NUMBER_OF_READMISSIONS,READM-30-PN (Number of Readmissions),Readmissions_Reduction_Program,2022
-READMISSIONS_REDUCTION_PROGRAM__READM_30_PN_PREDICTED_READMISSION_RATE,READM-30-PN (Predicted Readmission Rate),Readmissions_Reduction_Program,2022
-PAYMENT_AND_VALUE_OF_CARE__PAYMENT_FOR_HEART_ATTACK_PATIENTS_DENOMINATOR,Payment for heart attack patients (Denominator),Payment_and_Value_of_Care,2022
-PAYMENT_AND_VALUE_OF_CARE__PAYMENT_FOR_HEART_ATTACK_PATIENTS_PAYMENT,Payment for heart attack patients (Payment),Payment_and_Value_of_Care,2022
-PAYMENT_AND_VALUE_OF_CARE__PAYMENT_FOR_HEART_FAILURE_PATIENTS_DENOMINATOR,Payment for heart failure patients (Denominator),Payment_and_Value_of_Care,2022
-PAYMENT_AND_VALUE_OF_CARE__PAYMENT_FOR_HEART_FAILURE_PATIENTS_PAYMENT,Payment for heart failure patients (Payment),Payment_and_Value_of_Care,2022
-PAYMENT_AND_VALUE_OF_CARE__PAYMENT_FOR_HIP_KNEE_REPLACEMENT_PATIENTS_DENOMINATOR,Payment for hip/knee replacement patients (Denominator),Payment_and_Value_of_Care,2022
-PAYMENT_AND_VALUE_OF_CARE__PAYMENT_FOR_HIP_KNEE_REPLACEMENT_PATIENTS_PAYMENT,Payment for hip/knee replacement patients (Payment),Payment_and_Value_of_Care,2022
-PAYMENT_AND_VALUE_OF_CARE__PAYMENT_FOR_PNEUMONIA_PATIENTS_DENOMINATOR,Payment for pneumonia patients (Denominator),Payment_and_Value_of_Care,2022
-PAYMENT_AND_VALUE_OF_CARE__PAYMENT_FOR_PNEUMONIA_PATIENTS_PAYMENT,Payment for pneumonia patients (Payment),Payment_and_Value_of_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__APPROPRIATE_CARE_FOR_SEVERE_SEPSIS_AND_SEPTIC_SHOCK_SEP_1_SEPSIS_CARE,Appropriate care for severe sepsis and septic shock (SEP_1 - Sepsis Care),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__APPROPRIATE_CARE_FOR_SEVERE_SEPSIS_AND_SEPTIC_SHOCK_SEP_1_SEPSIS_CARE_SAMPLE,Appropriate care for severe sepsis and septic shock (SEP_1 - Sepsis Care) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__ENDOSCOPY_POLYP_SURVEILLANCE_APPROPRIATE_FOLLOW_UP_INTERVAL_FOR_NORMAL_COLONOSCOPY_IN_AVERAGE_RISK_PATIENTS_OP_29_COLONOSCOPY_CARE,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients (OP_29 - Colonoscopy care),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__ENDOSCOPY_POLYP_SURVEILLANCE_APPROPRIATE_FOLLOW_UP_INTERVAL_FOR_NORMAL_COLONOSCOPY_IN_AVERAGE_RISK_PATIENTS_OP_29_COLONOSCOPY_CARE_SAMPLE,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients (OP_29 - Colonoscopy care) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__FIBRINOLYTIC_THERAPY_RECEIVED_WITHIN_30_MINUTES_OF_ED_ARRIVAL_OP_2_HEART_ATTACK_OR_CHEST_PAIN,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival (OP_2 - Heart Attack or Chest Pain),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__FIBRINOLYTIC_THERAPY_RECEIVED_WITHIN_30_MINUTES_OF_ED_ARRIVAL_OP_2_HEART_ATTACK_OR_CHEST_PAIN_SAMPLE,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival (OP_2 - Heart Attack or Chest Pain) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__HEAD_CT_RESULTS_OP_23_EMERGENCY_DEPARTMENT,Head CT results (OP_23 - Emergency Department),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__HEAD_CT_RESULTS_OP_23_EMERGENCY_DEPARTMENT_SAMPLE,Head CT results (OP_23 - Emergency Department) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__HEALTHCARE_WORKERS_GIVEN_INFLUENZA_VACCINATION_IMM_3_HEALTHCARE_PERSONNEL_VACCINATION,Healthcare workers given influenza vaccination (IMM_3 - Healthcare Personnel Vaccination),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__HEALTHCARE_WORKERS_GIVEN_INFLUENZA_VACCINATION_IMM_3_HEALTHCARE_PERSONNEL_VACCINATION_SAMPLE,Healthcare workers given influenza vaccination (IMM_3 - Healthcare Personnel Vaccination) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__IMPROVEMENT_IN_PATIENTS_VISUAL_FUNCTION_WITHIN_90_DAYS_FOLLOWING_CATARACT_SURGERY_OP_31_CATARACT_SURGERY_OUTCOME,Improvement in Patients Visual Function within 90 Days Following Cataract Surgery (OP_31 - Cataract surgery outcome),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__IMPROVEMENT_IN_PATIENTS_VISUAL_FUNCTION_WITHIN_90_DAYS_FOLLOWING_CATARACT_SURGERY_OP_31_CATARACT_SURGERY_OUTCOME_SAMPLE,Improvement in Patients Visual Function within 90 Days Following Cataract Surgery (OP_31 - Cataract surgery outcome) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__LEFT_BEFORE_BEING_SEEN_OP_22_EMERGENCY_DEPARTMENT,Left before being seen (OP_22 - Emergency Department),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__LEFT_BEFORE_BEING_SEEN_OP_22_EMERGENCY_DEPARTMENT_SAMPLE,Left before being seen (OP_22 - Emergency Department) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__MEDIAN_TIME_TO_TRANSFER_TO_ANOTHER_FACILITY_FOR_ACUTE_CORONARY_INTERVENTION_OP_3B_HEART_ATTACK_OR_CHEST_PAIN,Median Time to Transfer to Another Facility for Acute Coronary Intervention (OP_3b - Heart Attack or Chest Pain),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__MEDIAN_TIME_TO_TRANSFER_TO_ANOTHER_FACILITY_FOR_ACUTE_CORONARY_INTERVENTION_OP_3B_HEART_ATTACK_OR_CHEST_PAIN_SAMPLE,Median Time to Transfer to Another Facility for Acute Coronary Intervention (OP_3b - Heart Attack or Chest Pain) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__MEDIAN_TIME_PSYCHIATRIC_MENTAL_HEALTH_PATIENTS_SPENT_IN_THE_ED_BEFORE_LEAVING_FROM_VISIT_OP_18C_EMERGENCY_DEPARTMENT,Median time Psychiatric/Mental Health patients spent in the ED before leaving from visit (OP_18c - Emergency Department),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__MEDIAN_TIME_PSYCHIATRIC_MENTAL_HEALTH_PATIENTS_SPENT_IN_THE_ED_BEFORE_LEAVING_FROM_VISIT_OP_18C_EMERGENCY_DEPARTMENT_SAMPLE,Median time Psychiatric/Mental Health patients spent in the ED before leaving from visit (OP_18c - Emergency Department) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__MEDIAN_TIME_PATIENTS_SPENT_IN_THE_ED_BEFORE_LEAVING_FROM_VISIT_OP_18B_EMERGENCY_DEPARTMENT,Median time patients spent in the ED before leaving from visit (OP_18b - Emergency Department),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__MEDIAN_TIME_PATIENTS_SPENT_IN_THE_ED_BEFORE_LEAVING_FROM_VISIT_OP_18B_EMERGENCY_DEPARTMENT_SAMPLE,Median time patients spent in the ED before leaving from visit (OP_18b - Emergency Department) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__PERCENTAGE_OF_HEALTHCARE_PERSONNEL_WHO_COMPLETED_COVID_19_PRIMARY_VACCINATION_SERIES_HCP_COVID_19_HEALTHCARE_PERSONNEL_VACCINATION,Percentage of healthcare personnel who completed COVID-19 primary vaccination series (HCP_COVID_19 - Healthcare Personnel Vaccination),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__PERCENTAGE_OF_HEALTHCARE_PERSONNEL_WHO_COMPLETED_COVID_19_PRIMARY_VACCINATION_SERIES_HCP_COVID_19_HEALTHCARE_PERSONNEL_VACCINATION_SAMPLE,Percentage of healthcare personnel who completed COVID-19 primary vaccination series (HCP_COVID_19 - Healthcare Personnel Vaccination) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__SEPTIC_SHOCK_3_HOUR_BUNDLE_SEP_SH_3HR_SEPSIS_CARE,Septic Shock 3-Hour Bundle (SEP_SH_3HR - Sepsis Care),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__SEPTIC_SHOCK_3_HOUR_BUNDLE_SEP_SH_3HR_SEPSIS_CARE_SAMPLE,Septic Shock 3-Hour Bundle (SEP_SH_3HR - Sepsis Care) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__SEPTIC_SHOCK_6_HOUR_BUNDLE_SEP_SH_6HR_SEPSIS_CARE,Septic Shock 6-Hour Bundle (SEP_SH_6HR - Sepsis Care),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__SEPTIC_SHOCK_6_HOUR_BUNDLE_SEP_SH_6HR_SEPSIS_CARE_SAMPLE,Septic Shock 6-Hour Bundle (SEP_SH_6HR - Sepsis Care) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__SEVERE_SEPSIS_3_HOUR_BUNDLE_SEV_SEP_3HR_SEPSIS_CARE,Severe Sepsis 3-Hour Bundle (SEV_SEP_3HR - Sepsis Care),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__SEVERE_SEPSIS_3_HOUR_BUNDLE_SEV_SEP_3HR_SEPSIS_CARE_SAMPLE,Severe Sepsis 3-Hour Bundle (SEV_SEP_3HR - Sepsis Care) (Sample),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__SEVERE_SEPSIS_6_HOUR_BUNDLE_SEV_SEP_6HR_SEPSIS_CARE,Severe Sepsis 6-Hour Bundle (SEV_SEP_6HR - Sepsis Care),Timely_and_Effective_Care,2022
-TIMELY_AND_EFFECTIVE_CARE__SEVERE_SEPSIS_6_HOUR_BUNDLE_SEV_SEP_6HR_SEPSIS_CARE_SAMPLE,Severe Sepsis 6-Hour Bundle (SEV_SEP_6HR - Sepsis Care) (Sample),Timely_and_Effective_Care,2022
-HAC_REDUCTION_PROGRAM__CAUTI_W_Z_SCORE,CAUTI W Z Score,HAC_Reduction_Program,2022
-HAC_REDUCTION_PROGRAM__CDI_W_Z_SCORE,CDI W Z Score,HAC_Reduction_Program,2022
-HAC_REDUCTION_PROGRAM__CLABSI_W_Z_SCORE,CLABSI W Z Score,HAC_Reduction_Program,2022
-HAC_REDUCTION_PROGRAM__MRSA_W_Z_SCORE,MRSA W Z Score,HAC_Reduction_Program,2022
-HAC_REDUCTION_PROGRAM__SSI_W_Z_SCORE,SSI W Z Score,HAC_Reduction_Program,2022
-HAC_REDUCTION_PROGRAM__PSI_90_W_Z_SCORE,PSI-90 W Z Score,HAC_Reduction_Program,2022
-HAC_REDUCTION_PROGRAM__TOTAL_HAC_SCORE,Total HAC Score,HAC_Reduction_Program,2022
+COMPLICATIONS_AND_DEATHS__COMP_HIP_KNEE__DENOMINATOR,Rate of complications for hip/knee replacement patients (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__COMP_HIP_KNEE__LOWER_ESTIMATE,Rate of complications for hip/knee replacement patients (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__COMP_HIP_KNEE__HIGHER_ESTIMATE,Rate of complications for hip/knee replacement patients (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__HYBRID_HWM__DENOMINATOR,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__HYBRID_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__HYBRID_HWM__LOWER_ESTIMATE,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__HYBRID_HWM__HIGHER_ESTIMATE,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_AMI__DENOMINATOR,Death rate for heart attack patients (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_AMI,Death rate for heart attack patients,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_AMI__LOWER_ESTIMATE,Death rate for heart attack patients (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_AMI__HIGHER_ESTIMATE,Death rate for heart attack patients (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_CABG__DENOMINATOR,Death rate for CABG surgery patients (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_CABG,Death rate for CABG surgery patients,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_CABG__LOWER_ESTIMATE,Death rate for CABG surgery patients (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_CABG__HIGHER_ESTIMATE,Death rate for CABG surgery patients (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_COPD__DENOMINATOR,Death rate for COPD patients (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_COPD,Death rate for COPD patients,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_COPD__LOWER_ESTIMATE,Death rate for COPD patients (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_COPD__HIGHER_ESTIMATE,Death rate for COPD patients (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_HF__DENOMINATOR,Death rate for heart failure patients (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_HF,Death rate for heart failure patients,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_HF__LOWER_ESTIMATE,Death rate for heart failure patients (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_HF__HIGHER_ESTIMATE,Death rate for heart failure patients (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_PN__DENOMINATOR,Death rate for pneumonia patients (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_PN,Death rate for pneumonia patients,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_PN__LOWER_ESTIMATE,Death rate for pneumonia patients (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_PN__HIGHER_ESTIMATE,Death rate for pneumonia patients (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_STK__DENOMINATOR,Death rate for stroke patients (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_STK,Death rate for stroke patients,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_STK__LOWER_ESTIMATE,Death rate for stroke patients (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__MORT_30_STK__HIGHER_ESTIMATE,Death rate for stroke patients (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_03__DENOMINATOR,Pressure ulcer rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_03,Pressure ulcer rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_03__LOWER_ESTIMATE,Pressure ulcer rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_03__HIGHER_ESTIMATE,Pressure ulcer rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_04__DENOMINATOR,Death rate among surgical inpatients with serious treatable complications (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_04,Death rate among surgical inpatients with serious treatable complications,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_04__LOWER_ESTIMATE,Death rate among surgical inpatients with serious treatable complications (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_04__HIGHER_ESTIMATE,Death rate among surgical inpatients with serious treatable complications (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_06__DENOMINATOR,Iatrogenic pneumothorax rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_06,Iatrogenic pneumothorax rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_06__LOWER_ESTIMATE,Iatrogenic pneumothorax rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_06__HIGHER_ESTIMATE,Iatrogenic pneumothorax rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_08__DENOMINATOR,In-hospital fall-associated fracture rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_08,In-hospital fall-associated fracture rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_08__LOWER_ESTIMATE,In-hospital fall-associated fracture rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_08__HIGHER_ESTIMATE,In-hospital fall-associated fracture rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_09__DENOMINATOR,Postoperative hemorrhage or hematoma rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_09,Postoperative hemorrhage or hematoma rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_09__LOWER_ESTIMATE,Postoperative hemorrhage or hematoma rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_09__HIGHER_ESTIMATE,Postoperative hemorrhage or hematoma rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_10__DENOMINATOR,Postoperative acute kidney injury requiring dialysis rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_10,Postoperative acute kidney injury requiring dialysis rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_10__LOWER_ESTIMATE,Postoperative acute kidney injury requiring dialysis rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_10__HIGHER_ESTIMATE,Postoperative acute kidney injury requiring dialysis rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_11__DENOMINATOR,Postoperative respiratory failure rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_11,Postoperative respiratory failure rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_11__LOWER_ESTIMATE,Postoperative respiratory failure rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_11__HIGHER_ESTIMATE,Postoperative respiratory failure rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_12__DENOMINATOR,Perioperative pulmonary embolism or deep vein thrombosis rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_12__LOWER_ESTIMATE,Perioperative pulmonary embolism or deep vein thrombosis rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_12__HIGHER_ESTIMATE,Perioperative pulmonary embolism or deep vein thrombosis rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_13__DENOMINATOR,Postoperative sepsis rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_13,Postoperative sepsis rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_13__LOWER_ESTIMATE,Postoperative sepsis rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_13__HIGHER_ESTIMATE,Postoperative sepsis rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_14__DENOMINATOR,Postoperative wound dehiscence rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_14,Postoperative wound dehiscence rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_14__LOWER_ESTIMATE,Postoperative wound dehiscence rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_14__HIGHER_ESTIMATE,Postoperative wound dehiscence rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_15__DENOMINATOR,Abdominopelvic accidental puncture or laceration rate (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_15,Abdominopelvic accidental puncture or laceration rate,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_15__LOWER_ESTIMATE,Abdominopelvic accidental puncture or laceration rate (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_15__HIGHER_ESTIMATE,Abdominopelvic accidental puncture or laceration rate (Higher Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_90__DENOMINATOR,CMS Medicare PSI 90: Patient safety and adverse events composite (Denominator),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_90__LOWER_ESTIMATE,CMS Medicare PSI 90: Patient safety and adverse events composite (Lower Estimate),Complications_and_Deaths,2026
+COMPLICATIONS_AND_DEATHS__PSI_90__HIGHER_ESTIMATE,CMS Medicare PSI 90: Patient safety and adverse events composite (Higher Estimate),Complications_and_Deaths,2026
+HAIS__HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAIs,2026
+HAIS__HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAIs,2026
+HAIS__HAI_1_DOPC,Central Line Associated Bloodstream Infection: Number of Device Days,HAIs,2026
+HAIS__HAI_1_ELIGCASES,Central Line Associated Bloodstream Infection (ICU + select Wards): Predicted Cases,HAIs,2026
+HAIS__HAI_1_NUMERATOR,Central Line Associated Bloodstream Infection (ICU + select Wards): Observed Cases,HAIs,2026
+HAIS__HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),HAIs,2026
+HAIS__HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAIs,2026
+HAIS__HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAIs,2026
+HAIS__HAI_2_DOPC,Catheter Associated Urinary Tract Infections (ICU + select Wards): Number of Urinary Catheter Days,HAIs,2026
+HAIS__HAI_2_ELIGCASES,Catheter Associated Urinary Tract Infections (ICU + select Wards): Predicted Cases,HAIs,2026
+HAIS__HAI_2_NUMERATOR,Catheter Associated Urinary Tract Infections (ICU + select Wards): Observed Cases,HAIs,2026
+HAIS__HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAIs,2026
+HAIS__HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,HAIs,2026
+HAIS__HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,HAIs,2026
+HAIS__HAI_3_DOPC,SSI - Colon Surgery: Number of Procedures,HAIs,2026
+HAIS__HAI_3_ELIGCASES,SSI - Colon Surgery: Predicted Cases,HAIs,2026
+HAIS__HAI_3_NUMERATOR,SSI - Colon Surgery: Observed Cases,HAIs,2026
+HAIS__HAI_3_SIR,SSI - Colon Surgery,HAIs,2026
+HAIS__HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAIs,2026
+HAIS__HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAIs,2026
+HAIS__HAI_4_DOPC,SSI - Abdominal Hysterectomy: Number of Procedures,HAIs,2026
+HAIS__HAI_4_ELIGCASES,SSI - Abdominal Hysterectomy: Predicted Cases,HAIs,2026
+HAIS__HAI_4_NUMERATOR,SSI - Abdominal Hysterectomy: Observed Cases,HAIs,2026
+HAIS__HAI_4_SIR,SSI - Abdominal Hysterectomy,HAIs,2026
+HAIS__HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,HAIs,2026
+HAIS__HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,HAIs,2026
+HAIS__HAI_5_DOPC,MRSA Bacteremia: Patient Days,HAIs,2026
+HAIS__HAI_5_ELIGCASES,MRSA Bacteremia: Predicted Cases,HAIs,2026
+HAIS__HAI_5_NUMERATOR,MRSA Bacteremia: Observed Cases,HAIs,2026
+HAIS__HAI_5_SIR,MRSA Bacteremia,HAIs,2026
+HAIS__HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAIs,2026
+HAIS__HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAIs,2026
+HAIS__HAI_6_DOPC,Clostridium Difficile (C.Diff): Patient Days,HAIs,2026
+HAIS__HAI_6_ELIGCASES,Clostridium Difficile (C.Diff): Predicted Cases,HAIs,2026
+HAIS__HAI_6_NUMERATOR,Clostridium Difficile (C.Diff): Observed Cases,HAIs,2026
+HAIS__HAI_6_SIR,Clostridium Difficile (C.Diff),HAIs,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_HIP_KNEE_HRRP__NUMBER_OF_DISCHARGES,READM-30-HIP-KNEE-HRRP (Number of Discharges),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_HIP_KNEE_HRRP__EXCESS_READMISSION_RATIO,READM-30-HIP-KNEE-HRRP (Excess Readmission Ratio),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_HIP_KNEE_HRRP__PREDICTED_READMISSION_RATE,READM-30-HIP-KNEE-HRRP (Predicted Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_HIP_KNEE_HRRP__EXPECTED_READMISSION_RATE,READM-30-HIP-KNEE-HRRP (Expected Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_HIP_KNEE_HRRP__NUMBER_OF_READMISSIONS,READM-30-HIP-KNEE-HRRP (Number of Readmissions),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_CABG_HRRP__NUMBER_OF_DISCHARGES,READM-30-CABG-HRRP (Number of Discharges),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_CABG_HRRP__EXCESS_READMISSION_RATIO,READM-30-CABG-HRRP (Excess Readmission Ratio),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_CABG_HRRP__PREDICTED_READMISSION_RATE,READM-30-CABG-HRRP (Predicted Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_CABG_HRRP__EXPECTED_READMISSION_RATE,READM-30-CABG-HRRP (Expected Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_CABG_HRRP__NUMBER_OF_READMISSIONS,READM-30-CABG-HRRP (Number of Readmissions),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_AMI_HRRP__NUMBER_OF_DISCHARGES,READM-30-AMI-HRRP (Number of Discharges),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_AMI_HRRP__EXCESS_READMISSION_RATIO,READM-30-AMI-HRRP (Excess Readmission Ratio),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_AMI_HRRP__PREDICTED_READMISSION_RATE,READM-30-AMI-HRRP (Predicted Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_AMI_HRRP__EXPECTED_READMISSION_RATE,READM-30-AMI-HRRP (Expected Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_AMI_HRRP__NUMBER_OF_READMISSIONS,READM-30-AMI-HRRP (Number of Readmissions),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_COPD_HRRP__NUMBER_OF_DISCHARGES,READM-30-COPD-HRRP (Number of Discharges),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_COPD_HRRP__EXCESS_READMISSION_RATIO,READM-30-COPD-HRRP (Excess Readmission Ratio),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_COPD_HRRP__PREDICTED_READMISSION_RATE,READM-30-COPD-HRRP (Predicted Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_COPD_HRRP__EXPECTED_READMISSION_RATE,READM-30-COPD-HRRP (Expected Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_COPD_HRRP__NUMBER_OF_READMISSIONS,READM-30-COPD-HRRP (Number of Readmissions),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_PN_HRRP__NUMBER_OF_DISCHARGES,READM-30-PN-HRRP (Number of Discharges),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_PN_HRRP__EXCESS_READMISSION_RATIO,READM-30-PN-HRRP (Excess Readmission Ratio),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_PN_HRRP__PREDICTED_READMISSION_RATE,READM-30-PN-HRRP (Predicted Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_PN_HRRP__EXPECTED_READMISSION_RATE,READM-30-PN-HRRP (Expected Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_PN_HRRP__NUMBER_OF_READMISSIONS,READM-30-PN-HRRP (Number of Readmissions),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_HF_HRRP__NUMBER_OF_DISCHARGES,READM-30-HF-HRRP (Number of Discharges),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_HF_HRRP__EXCESS_READMISSION_RATIO,READM-30-HF-HRRP (Excess Readmission Ratio),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_HF_HRRP__PREDICTED_READMISSION_RATE,READM-30-HF-HRRP (Predicted Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_HF_HRRP__EXPECTED_READMISSION_RATE,READM-30-HF-HRRP (Expected Readmission Rate),Readmissions_Reduction_Program,2026
+READMISSIONS_REDUCTION_PROGRAM__READM_30_HF_HRRP__NUMBER_OF_READMISSIONS,READM-30-HF-HRRP (Number of Readmissions),Readmissions_Reduction_Program,2026
+PAYMENT_AND_VALUE_OF_CARE__MSPB_1,Medicare hospital spending per patient (Medicare Spending per Beneficiary),Payment_and_Value_of_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__EDV,Emergency department volume,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__EDV__SAMPLE,Emergency department volume (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__GMCS,Global Malnutrition Composite Score,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__GMCS__SAMPLE,Global Malnutrition Composite Score (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__GMCS_MALNUTRITION_DIAGNOSIS_DOCUMENTED,Global Malnutrition Composite Score: Malnutrition Diagnosis Documented,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__GMCS_MALNUTRITION_DIAGNOSIS_DOCUMENTED__SAMPLE,Global Malnutrition Composite Score: Malnutrition Diagnosis Documented (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__GMCS_MALNUTRITION_SCREENING,Global Malnutrition Composite Score: Malnutrition Risk Screening,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__GMCS_MALNUTRITION_SCREENING__SAMPLE,Global Malnutrition Composite Score: Malnutrition Risk Screening (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__GMCS_NUTRITION_ASSESSMENT,Global Malnutrition Composite Score: Nutrition Assessment,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__GMCS_NUTRITION_ASSESSMENT__SAMPLE,Global Malnutrition Composite Score: Nutrition Assessment (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__GMCS_NUTRITIONAL_CARE_PLAN,Global Malnutrition Composite Score: Nutritional Care Plan,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__GMCS_NUTRITIONAL_CARE_PLAN__SAMPLE,Global Malnutrition Composite Score: Nutritional Care Plan (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__HH_HYPER,Hospital Harm - Severe Hyperglycemia,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__HH_HYPER__SAMPLE,Hospital Harm - Severe Hyperglycemia (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__HH_HYPO,Hospital Harm - Severe Hypoglycemia,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__HH_HYPO__SAMPLE,Hospital Harm - Severe Hypoglycemia (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__HH_ORAE,Hospital Harm - Opioid Related Adverse Events,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__HH_ORAE__SAMPLE,Hospital Harm - Opioid Related Adverse Events (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__IMM_3,Healthcare workers given influenza vaccination,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__IMM_3__SAMPLE,Healthcare workers given influenza vaccination (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_18A,"Average (median) time all patients spent in the emergency department before leaving from the visit, including psychiatric/mental health patients and patients who were transferred to another facility. A lower number of minutes is better",Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_18A__SAMPLE,"Average (median) time all patients spent in the emergency department before leaving from the visit, including psychiatric/mental health patients and patients who were transferred to another facility. A lower number of minutes is better (Sample)",Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_18B,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_18B__SAMPLE,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_18C,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_18C__SAMPLE,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_18D,Average (median) time transfer patients spent in the emergency department before leaving from the visit. A lower number of minutes is better,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_18D__SAMPLE,Average (median) time transfer patients spent in the emergency department before leaving from the visit. A lower number of minutes is better (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_22,Left before being seen,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_22__SAMPLE,Left before being seen (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_23,Head CT results,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_23__SAMPLE,Head CT results (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_29__SAMPLE,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_31,Improvement in Patient's Visual Function within 90 Days Following Cataract Surgery,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_31__SAMPLE,Improvement in Patient's Visual Function within 90 Days Following Cataract Surgery (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_40,ST-Segment Elevation Myocardial Infarction (STEMI),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__OP_40__SAMPLE,ST-Segment Elevation Myocardial Infarction (STEMI) (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SAFE_USE_OF_OPIOIDS,Safe Use of Opioids - Concurrent Prescribing,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SAFE_USE_OF_OPIOIDS__SAMPLE,Safe Use of Opioids - Concurrent Prescribing (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SEP_1,Appropriate care for severe sepsis and septic shock,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SEP_1__SAMPLE,Appropriate care for severe sepsis and septic shock (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SEP_SH_3HR,Septic Shock 3-Hour Bundle,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SEP_SH_3HR__SAMPLE,Septic Shock 3-Hour Bundle (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SEP_SH_6HR,Septic Shock 6-Hour Bundle,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SEP_SH_6HR__SAMPLE,Septic Shock 6-Hour Bundle (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SEV_SEP_3HR__SAMPLE,Severe Sepsis 3-Hour Bundle (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__SEV_SEP_6HR__SAMPLE,Severe Sepsis 6-Hour Bundle (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__STK_02,Discharged on Antithrombotic Therapy,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__STK_02__SAMPLE,Discharged on Antithrombotic Therapy (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__STK_03,Anticoagulation Therapy for Atrial Fibrillation/Flutter,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__STK_03__SAMPLE,Anticoagulation Therapy for Atrial Fibrillation/Flutter (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__STK_05,Antithrombotic Therapy by End of Hospital Day 2,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__STK_05__SAMPLE,Antithrombotic Therapy by End of Hospital Day 2 (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__VTE_1,Venous Thromboembolism Prophylaxis,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__VTE_1__SAMPLE,Venous Thromboembolism Prophylaxis (Sample),Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__VTE_2,Intensive Care Unit Venous Thromboembolism Prophylaxis,Timely_and_Effective_Care,2026
+TIMELY_AND_EFFECTIVE_CARE__VTE_2__SAMPLE,Intensive Care Unit Venous Thromboembolism Prophylaxis (Sample),Timely_and_Effective_Care,2026
+HAC_REDUCTION_PROGRAM__PSI_90_COMPOSITE_VALUE,PSI 90 Composite Value,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__PSI_90_W_Z_SCORE,PSI 90 W Z Score,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__CLABSI_SIR,CLABSI SIR,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__CLABSI_W_Z_SCORE,CLABSI W Z Score,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__CAUTI_SIR,CAUTI SIR,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__CAUTI_W_Z_SCORE,CAUTI W Z Score,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__SSI_SIR,SSI SIR,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__SSI_W_Z_SCORE,SSI W Z Score,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__CDI_SIR,CDI SIR,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__CDI_W_Z_SCORE,CDI W Z Score,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__MRSA_SIR,MRSA SIR,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__MRSA_W_Z_SCORE,MRSA W Z Score,HAC_Reduction_Program,2026
+HAC_REDUCTION_PROGRAM__TOTAL_HAC_SCORE,Total HAC Score,HAC_Reduction_Program,2026

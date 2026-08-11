@@ -2,7 +2,7 @@
 
 This is a full ETL and SQL project. I took 8 raw, messy government health files from two different years (2011 and 2026), cleaned them up, matched them together, and built one unified database. Then I wrote SQL queries that show CTEs, window functions, self joins across years, and joins across different topics.
 
-**Source data:** [CMS Hospital Compare / Care Compare](https://data.cms.gov/provider-data/topics/hospitals), official U.S. government data on about 5,400 hospitals that take Medicare. It covers death rates, infections, readmissions, cost, how fast patients get care, and Medicare payment penalties.
+**Source data:** [CMS Hospital Compare / Care Compare](https://data.cms.gov/provider-data/topics/hospitals), official U.S. government data on about 5,400 hospitals that take Medicare. It covers death rates, infections, readmissions, cost, how fast patients get care, and Medicare payment penalties. 2011 data was taken from Coursera/Healthcare Quality Improvement and Decision-Making/Hospital-Quality snapshot.
 
 ## Why 8 files instead of just 1
 

@@ -1,4 +1,4 @@
-# Data Cleaning Notes (Simple Version, 2011 and 2026)
+# Data Cleaning Notes 
 
 Source: CMS Hospital Compare / Care Compare. This is official U.S. government data. It compares the quality of care across hospitals that work with Medicare. Two time periods and 8 raw files were combined.
 
